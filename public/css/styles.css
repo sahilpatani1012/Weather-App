@@ -7,9 +7,9 @@ body{
 input{
     max-width: 19rem;
 }
-.go-btn{
+/* .go-btn{
     margin-left: 1rem !important;
-}
+} */
 .weather-card{
     background-color: black;
     color: #fff;
@@ -30,4 +30,9 @@ img{
 }
 p{
     font-size: 1.5rem;
+}
+@media (max-width: 1000px){
+    .input{
+        margin: 1% 10%;
+    }
 }
