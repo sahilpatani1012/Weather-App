@@ -1,0 +1,33 @@
+body{
+    background-image: url('/public/images/thumb-1920-679478.jpg');
+}
+.input{
+   margin:4% 36%;
+}
+input{
+    max-width: 19rem;
+}
+.go-btn{
+    margin-left: 1rem !important;
+}
+.weather-card{
+    background-color: black;
+    color: #fff;
+    margin: auto;
+    opacity: 0.6;
+    text-align: center;
+}
+.city{
+    text-transform: capitalize;
+    margin: 6% 1% 4%;
+}
+.temp{
+    font-size: 5rem;
+}
+img{
+    width: 30%;
+    margin: auto;
+}
+p{
+    font-size: 1.5rem;
+}
