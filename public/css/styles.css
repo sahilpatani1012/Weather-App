@@ -1,5 +1,10 @@
 body{
     background-image: url('/public/images/thumb-1920-679478.jpg');
+    position: relative;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .input{
    margin:4% 36%;
